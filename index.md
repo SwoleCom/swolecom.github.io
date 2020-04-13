@@ -1,5 +1,5 @@
 # swolecom.github.io
-<img src="/swolecom_logo_min.png"/>
+<img src="swolecom_logo_min.png"/>
 Welcome to SwoleCom an LLC of SwoleLexICom Services
 
 Weight Trainig Services
