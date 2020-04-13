@@ -20,6 +20,6 @@ Penetration Testing<br>
 Programming/Scripting Desktop Management Services <br>
 [under construction]
 
-For Questions about Services please email or call:<br>
+<i>For Questions about Services please email or call:</i><br>
 <a href="mailto: SwoleCom_Admin@protonmail.com">SwoleCom_Admin@protonmail.com</a> <br>
 555-5555-1234
