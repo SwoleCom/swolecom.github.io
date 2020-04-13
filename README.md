@@ -1,5 +1,5 @@
 # swolecom.github.io
-Welcome to SwoleCom an LLC of SwoleLexICom Services
+Welcome to SwoleCom an LLC of SwoleLexICom Services Readme
 
 Weight Trainig Services
 [under construction]
