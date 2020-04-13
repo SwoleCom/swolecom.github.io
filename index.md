@@ -2,11 +2,11 @@
 <img src="swolecom_logo_min.png" alt="SwoleCom Logo"/><br>
 Welcome to SwoleCom an LLC of SwoleLexICom Services
 
-Weight Trainig Services:<br>
+<b>Weight Trainig Services:</b><br>
 Mobile Weight Training Session<br>
 [under construction]
 
-Cyber Security Services:<br>
+<b>Cyber Security Services:</b><br>
 Vulnerability Scanning -<br>
 Nessus, Qualys, Nexpose<br>
 SIEM Management -<br>
