@@ -2,7 +2,7 @@
 <img src="swolecom_logo_min.png" alt="SwoleCom Logo"/><br>
 Welcome to SwoleCom an LLC of SwoleLexICom Services
 
-<b>Weight Trainig Services:</b><br>
+<b>Weight Training Services:</b><br>
 Mobile Weight Training Session<br>
 [under construction]
 
