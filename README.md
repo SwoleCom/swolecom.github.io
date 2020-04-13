@@ -7,4 +7,4 @@ Weight Trainig Services
 Cyber Security Services
 [under construction]
 
-For Questions about Services please email SwoleCom_Admin@protonemail.com
+For Questions about Services please email SwoleCom_Admin@protonmail.com
