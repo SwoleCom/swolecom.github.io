@@ -8,9 +8,11 @@ Mobile Weight Training Session<br>
 
 <b>Cyber Security Services:</b><br>
 Vulnerability Scanning -<br>
-Nessus, Nexpose, Qualys, OpenVAS<br>
+<ul>
+  <li>Nessus, Nexpose, Qualys, OpenVAS</li></ul><br>
 SIEM Management -<br>
-AlienVault, Wazuh, InsightVM<br>
+<ul>
+  <li>AlienVault, Wazuh, InsightVM</li></ul><br>
 PCI Attestation<br>
 Penetration Testing<br>
 Programming/Scripting Desktop Management Services <br>
